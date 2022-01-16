@@ -5,7 +5,7 @@ Challenge: FizzBuzz
 
 "Fizz buzz (often spelled "FizzBuzz" in this context) has been used as an interview screening device for computer programmers. Writing a program to output the first 100 FizzBuzz numbers is a trivial problem for any would-be computer programmer, so interviewers can easily sort out those with insufficient programming ability."
 
-- WikipediaLinks to an external site.
+- [Wikipedia](https://en.wikipedia.org/wiki/Fizz_buzz)
 
 Since this is a second course in programming (prerequisite is either INFOTC 1040 or CMP_SC 1050), you should be able to write the FizzBuzz program in the programming language of your choice.
 
