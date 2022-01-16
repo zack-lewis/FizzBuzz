@@ -1,5 +1,6 @@
 # FizzBuzz
 Challenge: FizzBuzz
+
 [![Pylint](https://github.com/zack-lewis/FizzBuzz/actions/workflows/pylint.yml/badge.svg?branch=master)](https://github.com/zack-lewis/FizzBuzz/actions/workflows/pylint.yml)
 
 "Fizz buzz is a group word game for children to teach them about division. Players take turns to count incrementally, replacing any number divisible by three with the word "fizz", and any number divisible by five with the word "buzz"."
