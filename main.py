@@ -2,10 +2,10 @@
 FIZZBUZZ Challenge
 Language: Python
 Parameters: None
-Return: 
-    List of numbers 1 to 100 with 
-        numbers divisible by 3 replaced with FIZZ, 
-        numbers divisible by 5 replaced with BUZZ, and 
+Return:
+    List of numbers 1 to 100 with
+        numbers divisible by 3 replaced with FIZZ,
+        numbers divisible by 5 replaced with BUZZ, and
         numbers replaceable by both 3 and 5 replaced with FIZZBUZZ.
 """
 
